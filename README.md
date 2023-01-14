@@ -8,3 +8,6 @@ As my first ever automated trading program, I wanted to keep it simple. I used a
 
 ## Monitoring
 To monitor the activity of the bot, I used Discord webhooks to notify me of order fills. The fills monitor is in the `fills.py` file.
+
+## Disclaimer
+This program was put together rather sloppily as I was figuring out how the FTX API worked. The trading execution only works well in healthy market conditions. There are many things I would do differently if I were to do this again. I advise against using my strategy's execution logic in your own program.
