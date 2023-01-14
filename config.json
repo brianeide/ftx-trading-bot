@@ -1,0 +1,7 @@
+{
+  "market": "BTC/USD",
+  "subaccount": "Team2",
+  "api_key": "API key here",
+  "api_secret": "API secret here",
+  "webhook": "Discord w bhook URI here"
+}
